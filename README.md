@@ -44,7 +44,7 @@ Your analysis should align with the following results:
 
 ![PyPoll](https://github.com/isekmen/python-challenge/assets/101214487/67d602a9-ae9a-4671-b05b-435d7a104f0b)
 
-#Hints
+# Hints
 Write one script for each of the provided datasets. Run each script separately to make sure that the code works for its respective dataset.
 
 
