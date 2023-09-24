@@ -17,6 +17,9 @@ The total number of votes each candidate won
 The winner of the election based on popular vote
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+![PyBank](https://github.com/isekmen/python-challenge/assets/101214487/85f4a40b-7c79-4e87-9303-be1f82198db5)
+
+
 
 # PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
