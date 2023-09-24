@@ -17,8 +17,10 @@ The total number of votes each candidate won
 The winner of the election based on popular vote
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
-![PyBank](https://github.com/isekmen/python-challenge/assets/101214487/85f4a40b-7c79-4e87-9303-be1f82198db5)
 
+Your analysis should align with the following results:
+
+![PyBank](https://github.com/isekmen/python-challenge/assets/101214487/85f4a40b-7c79-4e87-9303-be1f82198db5)
 
 
 # PyPoll Instructions
@@ -38,9 +40,12 @@ The winner of the election based on popular vote
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
+Your analysis should align with the following results:
 
+![PyPoll](https://github.com/isekmen/python-challenge/assets/101214487/67d602a9-ae9a-4671-b05b-435d7a104f0b)
 
-
+#Hints
+Write one script for each of the provided datasets. Run each script separately to make sure that the code works for its respective dataset.
 
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
